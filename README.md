@@ -17,7 +17,7 @@ I strive for modularity and prefer quality over quantity.
 class SRHTNIN:
   def __init__ (Self):
     Self.Name = "Sarah"
-    Self.Birthday = "27.11.2026"
+    Self.Birthday = "27.11.2008"
     Self.Nationality = "Norwegian"
 
     Self.Socials = Socials()
