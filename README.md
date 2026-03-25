@@ -1,11 +1,25 @@
+## Hi.
+
+I'm Sarah, a stereotypical nerd who makes stuff for niche uses.
+
+I work in IT, and am consequently skilled with:
+- Python
+- Linux
+- PHP
+- HTML
+- CSS
+- JavaScript
+- Git
+
+I strive for modularity and prefer quality over quantity.
+
 ```python
 class SRHTNIN:
   def __init__ (Self):
-    Self.Name == "Sarah"
-    Self.Birthday == "27.11.2026"
-    Self.Nationality == "Norwegian"
+    Self.Name = "Sarah"
+    Self.Birthday = "27.11.2026"
+    Self.Nationality = "Norwegian"
 
-  def Links (Self):
     Self.Socials = Socials()
     Self.Identity = Identity()
 
