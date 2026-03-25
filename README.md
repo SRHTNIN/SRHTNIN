@@ -1,16 +1,36 @@
-## Hi there 👋
+```python
+class SRHTNIN:
+  def __init__ (Self):
+    Self.Name == "Sarah"
+    Self.Birthday == "27.11.2026"
+    Self.Nationality == "Norwegian"
 
-<!--
-**SRHTNIN/SRHTNIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  def Links (Self):
+    Self.Socials = Socials()
+    Self.Identity = Identity()
 
-Here are some ideas to get you started:
+  class Socials:
+    def __init__ (Self):
+      Self.Steam = "SRHTNIN"
+      Self.Youtube = "SRHTNIN"
+      Self.Discord = "SRHTNIN"
+      Self.Mastodon = "SRHTNIN"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  class Identity:
+    def __init__ (Self):
+      Self.Gender = "Female"
+      Self.Pronouns = "She/Her"
+      Self.Flags = [
+        "Asexual",
+        "Lesbian",
+        "Trans"
+      ]
+
+  def Misc (Self):
+    Self.Hobbies = [
+      "Playing games",
+      "Programming",
+      "Linux",
+      "Drawing"
+    ]
+```
