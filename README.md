@@ -28,7 +28,6 @@ class SRHTNIN:
       Self.Steam = "SRHTNIN"
       Self.Youtube = "SRHTNIN"
       Self.Discord = "SRHTNIN"
-      Self.Mastodon = "SRHTNIN"
 
   class Identity:
     def __init__ (Self):
